@@ -1,0 +1,22 @@
+.foodOrder-footer {
+  background-color: #2d2e32;
+  width: 100%;
+  padding: 1rem 0;
+}
+
+.footer-box {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  justify-content: space-between;
+}
+.footer-left {
+  font-family: "Pacifico", cursive;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.footer-right {
+  font-size: 1.rem;
+  font-weight: 500;
+}
