@@ -3,6 +3,8 @@
 # Foodivery App
 🍔🍕🌮 [Foodivery] - An online food ordering web app made with React and Vanilla CSS.
 
+## Deployed Link : https://foodivery.vercel.app/
+
 ## Description
 Foodr is a web application that allows users to order food online with ease. Users can browse through a variety of food options, select their desired items, and place their order with just a few clicks. The app is built using React and Vanilla CSS, providing a responsive and user-friendly interface for ordering food.
 
