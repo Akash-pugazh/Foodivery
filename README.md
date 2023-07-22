@@ -1,7 +1,7 @@
 
 
-# Foodr Food Order WebApp
-🍔🍕🌮 [Foodr] - An online food ordering web app made with React and Vanilla CSS.
+# Foodivery App
+🍔🍕🌮 [Foodivery] - An online food ordering web app made with React and Vanilla CSS.
 
 ## Description
 Foodr is a web application that allows users to order food online with ease. Users can browse through a variety of food options, select their desired items, and place their order with just a few clicks. The app is built using React and Vanilla CSS, providing a responsive and user-friendly interface for ordering food.
@@ -17,7 +17,6 @@ Foodr is a web application that allows users to order food online with ease. Use
 
 - React Js
 - Vanilla CSS
-- Firebase
 
 ## Installation
 1. Clone the repository:
